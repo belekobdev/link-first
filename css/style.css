@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+
+}
+#about {
+    background: url("../images/education.jpg") no-repeat center/cover;
+    min-height: 100vh;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+
+.block {
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 60px 40px;
+
+}
+
+.title {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.title span {
+    color: red;
+    margin: 0 10px;
+}
+
+.subtitle {
+    margin-bottom: 35px;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
